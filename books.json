@@ -1,0 +1,802 @@
+[
+  {
+    "ID": 1,
+    "Rank": 86,
+    "Title": "1984",
+    "Author": "George Orwell",
+    "Published": 1977,
+    "Isbn13": 9780452254268.0
+  },
+  {
+    "ID": 2,
+    "Rank": 73,
+    "Title": "A FAREWELL TO ARMS",
+    "Author": "",
+    "Published": 1995,
+    "Isbn13": 9780870783753.0
+  },
+  {
+    "ID": 3,
+    "Rank": 64,
+    "Title": "A Passage to India",
+    "Author": "E. M. Forster",
+    "Published": 1984,
+    "Isbn13": 9780156711425.0
+  },
+  {
+    "ID": 4,
+    "Rank": 37,
+    "Title": "A Portrait of the Artist as a Young Man",
+    "Author": "James Joyce",
+    "Published": 2000,
+    "Isbn13": 9780192839985.0
+  },
+  {
+    "ID": 5,
+    "Rank": 17,
+    "Title": "Absalom, Absalom!",
+    "Author": "William Faulkner",
+    "Published": 1964,
+    "Isbn13": 9780679732181.0
+  },
+  {
+    "ID": 6,
+    "Rank": 14,
+    "Title": "Adventures of Huckleberry Finn",
+    "Author": "Mark Twain",
+    "Published": 1996,
+    "Isbn13": 9780195101409.0
+  },
+  {
+    "ID": 7,
+    "Rank": 46,
+    "Title": "An American Tragedy",
+    "Author": "Theodore Dreiser",
+    "Published": 2000,
+    "Isbn13": 9780451527707.0
+  },
+  {
+    "ID": 8,
+    "Rank": 13,
+    "Title": "Anna Karenina",
+    "Author": "Leo Tolstoy",
+    "Published": 0,
+    "Isbn13": 9780585053905.0
+  },
+  {
+    "ID": 9,
+    "Rank": 45,
+    "Title": "Beloved",
+    "Author": "Toni Morrison",
+    "Published": 1987,
+    "Isbn13": 9780452280625.0
+  },
+  {
+    "ID": 10,
+    "Rank": 70,
+    "Title": "Berlin Alexanderplatz",
+    "Author": "Alfred Döblin",
+    "Published": 2003,
+    "Isbn13": 9780826414878.0
+  },
+  {
+    "ID": 11,
+    "Rank": 12,
+    "Title": "Bleak House",
+    "Author": "Charles Dickens",
+    "Published": 1998,
+    "Isbn13": 9780192834010.0
+  },
+  {
+    "ID": 12,
+    "Rank": 74,
+    "Title": "Brideshead Revisited",
+    "Author": "Evelyn Waugh",
+    "Published": 1993,
+    "Isbn13": 9780679423003.0
+  },
+  {
+    "ID": 13,
+    "Rank": 35,
+    "Title": "Buddenbrooks",
+    "Author": "Thomas Mann",
+    "Published": 1993,
+    "Isbn13": 9783103481174.0
+  },
+  {
+    "ID": 14,
+    "Rank": 67,
+    "Title": "Call It Sleep",
+    "Author": "Henry Roth",
+    "Published": 1991,
+    "Isbn13": 9780374522926.0
+  },
+  {
+    "ID": 15,
+    "Rank": 79,
+    "Title": "Candide",
+    "Author": "Voltaire",
+    "Published": 1968,
+    "Isbn13": 9780198323723.0
+  },
+  {
+    "ID": 16,
+    "Rank": 71,
+    "Title": "Cities of Salt",
+    "Author": "Abdul Rahman Munif",
+    "Published": 1987,
+    "Isbn13": 9780394755267.0
+  },
+  {
+    "ID": 17,
+    "Rank": 49,
+    "Title": "Clarissa",
+    "Author": "Samuel Richardson",
+    "Published": 1971,
+    "Isbn13": 9780030840142.0
+  },
+  {
+    "ID": 18,
+    "Rank": 22,
+    "Title": "Crime and Punishment",
+    "Author": "Fyodor Dostoyevsky",
+    "Published": 1975,
+    "Isbn13": 9780393055344.0
+  },
+  {
+    "ID": 19,
+    "Rank": 33,
+    "Title": "Dead Souls",
+    "Author": "Nikolai Vasilievich Gogol",
+    "Published": 1985,
+    "Isbn13": 9780393017366.0
+  },
+  {
+    "ID": 20,
+    "Rank": 1,
+    "Title": "Don Quixote",
+    "Author": "Miguel de Cervantes",
+    "Published": 1982,
+    "Isbn13": 9780906399378.0
+  },
+  {
+    "ID": 21,
+    "Rank": 97,
+    "Title": "Dracula",
+    "Author": "Bram Stoker",
+    "Published": 1997,
+    "Isbn13": 9780312863586.0
+  },
+  {
+    "ID": 22,
+    "Rank": 50,
+    "Title": "Dream of the Red Chamber",
+    "Author": "TSAO HSUEH-CHIN",
+    "Published": 1958,
+    "Isbn13": 9780385093798.0
+  },
+  {
+    "ID": 23,
+    "Rank": 11,
+    "Title": "Emma",
+    "Author": "Jane Austen",
+    "Published": 1983,
+    "Isbn13": 9780582331532.0
+  },
+  {
+    "ID": 24,
+    "Rank": 43,
+    "Title": "Fathers and Sons",
+    "Author": "Ivan Sergeevich Turgenev",
+    "Published": 1998,
+    "Isbn13": 9780192833921.0
+  },
+  {
+    "ID": 25,
+    "Rank": 26,
+    "Title": "FINNEGANS WAKE",
+    "Author": "James Joyce",
+    "Published": 1978,
+    "Isbn13": 9780824028275.0
+  },
+  {
+    "ID": 26,
+    "Rank": 92,
+    "Title": "Frankenstein",
+    "Author": "Mary Wollstonecraft Shelley",
+    "Published": 1989,
+    "Isbn13": 9780140367126.0
+  },
+  {
+    "ID": 27,
+    "Rank": 66,
+    "Title": "Germinal",
+    "Author": "Emile Zola",
+    "Published": 1996,
+    "Isbn13": 9780460875813.0
+  },
+  {
+    "ID": 28,
+    "Rank": 100,
+    "Title": "Gone With the Wind",
+    "Author": "Herb Bridges",
+    "Published": 1999,
+    "Isbn13": 9780865546721.0
+  },
+  {
+    "ID": 29,
+    "Rank": 28,
+    "Title": "Gravity's Rainbow",
+    "Author": "Tsuboi, Chuji",
+    "Published": 1983,
+    "Isbn13": 9780045510733.0
+  },
+  {
+    "ID": 30,
+    "Rank": 16,
+    "Title": "Great Expectations",
+    "Author": "Monica Kulling",
+    "Published": 1996,
+    "Isbn13": 9780679874669.0
+  },
+  {
+    "ID": 31,
+    "Rank": 65,
+    "Title": "Herzog",
+    "Author": "Jonathan Wilson",
+    "Published": 1990,
+    "Isbn13": 9780805779967.0
+  },
+  {
+    "ID": 32,
+    "Rank": 69,
+    "Title": "Hunger",
+    "Author": "Donald Novin",
+    "Published": 1976,
+    "Isbn13": 9780890040591.0
+  },
+  {
+    "ID": 33,
+    "Rank": 4,
+    "Title": "In Search of Lost Time",
+    "Author": "Derek York",
+    "Published": 1997,
+    "Isbn13": 9780585258980.0
+  },
+  {
+    "ID": 34,
+    "Rank": 25,
+    "Title": "Invisible Man",
+    "Author": "Ralph Ellison",
+    "Published": 1988,
+    "Isbn13": 9780805779776.0
+  },
+  {
+    "ID": 35,
+    "Rank": 52,
+    "Title": "Jane Eyre",
+    "Author": "Charlotte Brontë",
+    "Published": 1998,
+    "Isbn13": 9780192833563.0
+  },
+  {
+    "ID": 36,
+    "Rank": 36,
+    "Title": "Le Pere Goriot",
+    "Author": "Honore de Balzac",
+    "Published": 1834,
+    "Isbn13": 9780685340929.0
+  },
+  {
+    "ID": 37,
+    "Rank": 90,
+    "Title": "Les Miserables",
+    "Author": "Victor Hugo",
+    "Published": 1996,
+    "Isbn13": 9780585232614.0
+  },
+  {
+    "ID": 38,
+    "Rank": 47,
+    "Title": "Lolita",
+    "Author": "Vladimir Vladimirovich Nabokov",
+    "Published": 1983,
+    "Isbn13": 9780425089781.0
+  },
+  {
+    "ID": 39,
+    "Rank": 7,
+    "Title": "Madame Bovary",
+    "Author": "Gustave Flaubert",
+    "Published": 1998,
+    "Isbn13": 9780192833990.0
+  },
+  {
+    "ID": 40,
+    "Rank": 8,
+    "Title": "Middlemarch",
+    "Author": "George Eliot",
+    "Published": 1997,
+    "Isbn13": 9780192834027.0
+  },
+  {
+    "ID": 41,
+    "Rank": 6,
+    "Title": "Moby-Dick",
+    "Author": "Herman Melville",
+    "Published": 1998,
+    "Isbn13": 9780192833853.0
+  },
+  {
+    "ID": 42,
+    "Rank": 40,
+    "Title": "Molloy; Malone Dies; The Unnamable",
+    "Author": "Samuel Beckett",
+    "Published": 1959,
+    "Isbn13": 9780802144478.0
+  },
+  {
+    "ID": 43,
+    "Rank": 59,
+    "Title": "My Antonia",
+    "Author": "John F. Murphy",
+    "Published": 1989,
+    "Isbn13": 9780805779868.0
+  },
+  {
+    "ID": 44,
+    "Rank": 80,
+    "Title": "Native Son",
+    "Author": "Richard T. Wright",
+    "Published": 1940,
+    "Isbn13": 9780816157877.0
+  },
+  {
+    "ID": 45,
+    "Rank": 44,
+    "Title": "NOSTROMO",
+    "Author": "Joseph Conrad",
+    "Published": 1992,
+    "Isbn13": 9780679409908.0
+  },
+  {
+    "ID": 46,
+    "Rank": 82,
+    "Title": "Oblomov",
+    "Author": "Ivan Aleksandrovich Goncharov",
+    "Published": 1954,
+    "Isbn13": 9780140440409.0
+  },
+  {
+    "ID": 47,
+    "Rank": 91,
+    "Title": "On the Road",
+    "Author": "Jack Kerouac",
+    "Published": 1991,
+    "Isbn13": 9780887508417.0
+  },
+  {
+    "ID": 48,
+    "Rank": 19,
+    "Title": "One Hundred Years of Solitude",
+    "Author": "Gabriel Garcia Marquez",
+    "Published": 1991,
+    "Isbn13": 9780805780383.0
+  },
+  {
+    "ID": 49,
+    "Rank": 55,
+    "Title": "Petersburg",
+    "Author": "Andrey Bely",
+    "Published": 1978,
+    "Isbn13": 9780253344106.0
+  },
+  {
+    "ID": 50,
+    "Rank": 41,
+    "Title": "Pride and Prejudice",
+    "Author": "Kenneth L. Moler",
+    "Published": 1989,
+    "Isbn13": 9780805780321.0
+  },
+  {
+    "ID": 51,
+    "Rank": 77,
+    "Title": "Robinson Crusoe",
+    "Author": "Daniel Defoe",
+    "Published": 1719,
+    "Isbn13": 9780585093406.0
+  },
+  {
+    "ID": 52,
+    "Rank": 85,
+    "Title": "Snow Country",
+    "Author": "James Skofield",
+    "Published": 1983,
+    "Isbn13": 9780060257842.0
+  },
+  {
+    "ID": 53,
+    "Rank": 34,
+    "Title": "Tess of the D'Urbervilles",
+    "Author": "Thomas Hardy",
+    "Published": 1979,
+    "Isbn13": 9780393045079.0
+  },
+  {
+    "ID": 54,
+    "Rank": 61,
+    "Title": "The Age of Innocence",
+    "Author": "Edith Wharton",
+    "Published": 1993,
+    "Isbn13": 9780020264781.0
+  },
+  {
+    "ID": 55,
+    "Rank": 18,
+    "Title": "THE AMBASSADORS",
+    "Author": "Henry James",
+    "Published": 1909,
+    "Isbn13": 9780678028216.0
+  },
+  {
+    "ID": 56,
+    "Rank": 63,
+    "Title": "The Awakening",
+    "Author": "Thomas D. Eno",
+    "Published": 1997,
+    "Isbn13": 9781577341284.0
+  },
+  {
+    "ID": 57,
+    "Rank": 87,
+    "Title": "The Betrothed",
+    "Author": "Alessandro Manzoni",
+    "Published": 1972,
+    "Isbn13": 9780140442748.0
+  },
+  {
+    "ID": 58,
+    "Rank": 5,
+    "Title": "The Brothers Karamazov",
+    "Author": "Gary Carey",
+    "Published": 1967,
+    "Isbn13": 9780822002659.0
+  },
+  {
+    "ID": 59,
+    "Rank": 94,
+    "Title": "The Catcher in the Rye",
+    "Author": "J.D. Salinger",
+    "Published": 1993,
+    "Isbn13": 9780805780284.0
+  },
+  {
+    "ID": 60,
+    "Rank": 60,
+    "Title": "The Counterfeiters",
+    "Author": "André Gide",
+    "Published": 1955,
+    "Isbn13": 9780394718422.0
+  },
+  {
+    "ID": 61,
+    "Rank": 72,
+    "Title": "The Death of Artemio Cruz",
+    "Author": "Carlos Fuentes",
+    "Published": 1991,
+    "Isbn13": 9780374522834.0
+  },
+  {
+    "ID": 62,
+    "Rank": 48,
+    "Title": "The Golden Notebook",
+    "Author": "Doris May Lessing",
+    "Published": 1962,
+    "Isbn13": 9780671287702.0
+  },
+  {
+    "ID": 63,
+    "Rank": 62,
+    "Title": "THE GOOD SOLDIER",
+    "Author": "Ford Madox Ford",
+    "Published": 1991,
+    "Isbn13": 9780679406655.0
+  },
+  {
+    "ID": 64,
+    "Rank": 96,
+    "Title": "The Good Soldier Svejk",
+    "Author": "Jaroslav Hašek",
+    "Published": 1993,
+    "Isbn13": 9780679420361.0
+  },
+  {
+    "ID": 65,
+    "Rank": 54,
+    "Title": "The Grapes of Wrath",
+    "Author": "John Steinbeck",
+    "Published": 1972,
+    "Isbn13": 9780670018086.0
+  },
+  {
+    "ID": 66,
+    "Rank": 20,
+    "Title": "The Great Gatsby",
+    "Author": "F. Scott Fitzgerald",
+    "Published": 1990,
+    "Isbn13": 9780805779608.0
+  },
+  {
+    "ID": 67,
+    "Rank": 99,
+    "Title": "The Hound of Baskervilles",
+    "Author": "Sir Doyle Arthur Conan",
+    "Published": 1902,
+    "Isbn13": 9781595404107.0
+  },
+  {
+    "ID": 68,
+    "Rank": 75,
+    "Title": "The Last Chronicle of Barset",
+    "Author": "Anthony Trollope",
+    "Published": 1995,
+    "Isbn13": 9780679443667.0
+  },
+  {
+    "ID": 69,
+    "Rank": 88,
+    "Title": "The Last of the Mohicans",
+    "Author": "James Fenimore Cooper",
+    "Published": 1986,
+    "Isbn13": 9780140390247.0
+  },
+  {
+    "ID": 70,
+    "Rank": 93,
+    "Title": "The Leopard",
+    "Author": "Lynn M. Stone",
+    "Published": 1989,
+    "Isbn13": 9780865925021.0
+  },
+  {
+    "ID": 71,
+    "Rank": 9,
+    "Title": "The Magic Mountain",
+    "Author": "Thomas Mann",
+    "Published": 1960,
+    "Isbn13": 9780140014754.0
+  },
+  {
+    "ID": 72,
+    "Rank": 27,
+    "Title": "The Man Without Qualities",
+    "Author": "Robert Musil",
+    "Published": 1995,
+    "Isbn13": 9780394510521.0
+  },
+  {
+    "ID": 73,
+    "Rank": 76,
+    "Title": "The Pickwick Papers",
+    "Author": "Charles Dickens",
+    "Published": 1836,
+    "Isbn13": 9780585065328.0
+  },
+  {
+    "ID": 74,
+    "Rank": 29,
+    "Title": "The Portrait of a Lady",
+    "Author": "Henry James",
+    "Published": 1984,
+    "Isbn13": 9780140432237.0
+  },
+  {
+    "ID": 75,
+    "Rank": 57,
+    "Title": "The Princess of Cleves",
+    "Author": "Madame de La Fayette",
+    "Published": 1951,
+    "Isbn13": 9780811210706.0
+  },
+  {
+    "ID": 76,
+    "Rank": 31,
+    "Title": "The Red and the Black",
+    "Author": "Brian A. Sparkes",
+    "Published": 1996,
+    "Isbn13": 9780415126601.0
+  },
+  {
+    "ID": 77,
+    "Rank": 53,
+    "Title": "The Red Badge of Courage",
+    "Author": "Stephen Crane",
+    "Published": 1980,
+    "Isbn13": 9780590021173.0
+  },
+  {
+    "ID": 78,
+    "Rank": 42,
+    "Title": "The Scarlet Letter",
+    "Author": "Nathaniel Hawthorne",
+    "Published": 1991,
+    "Isbn13": 9780312060244.0
+  },
+  {
+    "ID": 79,
+    "Rank": 78,
+    "Title": "The Sorrows of Young Werther",
+    "Author": "Johann Wolfgang von Goethe",
+    "Published": 1982,
+    "Isbn13": 9780451521545.0
+  },
+  {
+    "ID": 80,
+    "Rank": 23,
+    "Title": "The Sound and the Fury",
+    "Author": "William Faulkner",
+    "Published": 1987,
+    "Isbn13": 9780393025460.0
+  },
+  {
+    "ID": 81,
+    "Rank": 58,
+    "Title": "The Stranger",
+    "Author": "Albert Camus",
+    "Published": 1990,
+    "Isbn13": 9780745198385.0
+  },
+  {
+    "ID": 82,
+    "Rank": 10,
+    "Title": "The Tale of Genji",
+    "Author": "Murasaki Shikibu",
+    "Published": 1976,
+    "Isbn13": 9780394483283.0
+  },
+  {
+    "ID": 83,
+    "Rank": 98,
+    "Title": "The Three Musketeers",
+    "Author": "Alexandre Dumas",
+    "Published": 1996,
+    "Isbn13": 9780899681481.0
+  },
+  {
+    "ID": 84,
+    "Rank": 39,
+    "Title": "The Tin Drum",
+    "Author": "Günter Grass",
+    "Published": 1993,
+    "Isbn13": 9780679420330.0
+  },
+  {
+    "ID": 85,
+    "Rank": 51,
+    "Title": "The Trial",
+    "Author": "Howard Myers",
+    "Published": 1991,
+    "Isbn13": 9780314824417.0
+  },
+  {
+    "ID": 86,
+    "Rank": 95,
+    "Title": "The Woman in White",
+    "Author": "Wilkie Collins",
+    "Published": 1980,
+    "Isbn13": 9780192815347.0
+  },
+  {
+    "ID": 87,
+    "Rank": 83,
+    "Title": "Their Eyes Were Watching God",
+    "Author": "Zora Neale Hurston",
+    "Published": 1937,
+    "Isbn13": 9780252006869.0
+  },
+  {
+    "ID": 88,
+    "Rank": 56,
+    "Title": "Things Fall Apart",
+    "Author": "Chinua Achebe",
+    "Published": 1996,
+    "Isbn13": 9780585106595.0
+  },
+  {
+    "ID": 89,
+    "Rank": 21,
+    "Title": "To the Lighthouse",
+    "Author": "Virginia Woolf",
+    "Published": 1982,
+    "Isbn13": 9780701205416.0
+  },
+  {
+    "ID": 90,
+    "Rank": 15,
+    "Title": "Tom Jones",
+    "Author": "Henry Fielding",
+    "Published": 1996,
+    "Isbn13": 9780192831101.0
+  },
+  {
+    "ID": 91,
+    "Rank": 32,
+    "Title": "Tristram Shandy",
+    "Author": "Laurence Sterne",
+    "Published": 1980,
+    "Isbn13": 9780393950342.0
+  },
+  {
+    "ID": 92,
+    "Rank": 68,
+    "Title": "U.S.A.(trilogy)",
+    "Author": "",
+    "Published": 0,
+    "Isbn13": 0.0
+  },
+  {
+    "ID": 93,
+    "Rank": 3,
+    "Title": "ULYSSES",
+    "Author": "James Joyce",
+    "Published": 1961,
+    "Isbn13": 9780394703800.0
+  },
+  {
+    "ID": 94,
+    "Rank": 89,
+    "Title": "Uncle Tom's Cabin",
+    "Author": "Harriet Beecher Stowe",
+    "Published": 1929,
+    "Isbn13": 9780698303843.0
+  },
+  {
+    "ID": 95,
+    "Rank": 81,
+    "Title": "Under the Volcano",
+    "Author": "Malcolm Lowry",
+    "Published": 1947,
+    "Isbn13": 9780060153670.0
+  },
+  {
+    "ID": 96,
+    "Rank": 24,
+    "Title": "Vanity Fair",
+    "Author": "William Makepeace Thackeray",
+    "Published": 1848,
+    "Isbn13": 9780585153162.0
+  },
+  {
+    "ID": 97,
+    "Rank": 2,
+    "Title": "War and Peace",
+    "Author": "Stanley Schmidt",
+    "Published": 1983,
+    "Isbn13": 9780385279161.0
+  },
+  {
+    "ID": 98,
+    "Rank": 84,
+    "Title": "Waverley",
+    "Author": "Walter Sidney Scott",
+    "Published": 1981,
+    "Isbn13": 9780198126430.0
+  },
+  {
+    "ID": 99,
+    "Rank": 30,
+    "Title": "WOMEN IN LOVE",
+    "Author": "D.H. Lawrence",
+    "Published": 1987,
+    "Isbn13": 9780521280419.0
+  },
+  {
+    "ID": 100,
+    "Rank": 38,
+    "Title": "Wuthering Heights",
+    "Author": "Emily Bronte",
+    "Published": 1990,
+    "Isbn13": 9780393957600.0
+  }
+]
